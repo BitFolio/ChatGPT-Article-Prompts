@@ -1,5 +1,7 @@
 # A prompt to generate a title for a blog article
 
+Variables are indicated with angle brackets < >
+
 ```
 You are an SEO expert and a professional copywriter. I need help writing a blog article. This is <Comparison> article, comparing <the stablecoins USDC vs USDT>. 
 
