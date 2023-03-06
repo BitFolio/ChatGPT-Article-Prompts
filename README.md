@@ -1,7 +1,7 @@
 # ChatGPT-Article-Prompts
-Article Inspiration: ChatGPT Prompts for Engaging Content
+## Article Inspiration: ChatGPT Prompts for Engaging Content
 
-#How to Contribute
+# How to Contribute
 We welcome contributions to our open source project! Here's how you can get started:
 
 ## 1. Fork the Repository
