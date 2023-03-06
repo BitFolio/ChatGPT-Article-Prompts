@@ -8,3 +8,11 @@ The target audience is an investor who is about to invest in a <stablecoin>. He 
 List seven clickable titles that are 70 characters or less in the style of David Ogilvy. If possible include these exact phrases and LSI keywords: 
 <keywords>
 ```
+Types of blog articles:
+- a how-to guide or a tutorial
+- a listicle
+- a new item and a current event
+- a comparison
+- a review
+- a query
+- a case study
