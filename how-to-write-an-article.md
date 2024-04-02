@@ -14,7 +14,7 @@ Perplexity AI or LLM Answer Engine are designed to efficiently return sources, a
 - Get Youtube URLs for transcripts.
 - Ask Gemini to summarize web pages and transcripts and to list the top-ranked keywords.
 - Ask openAI to generate clickable titles, an SEO description, and a list of short SEO keywords or hashtags.
-- Use (WordSteam)[https://tools.wordstream.com/fkt?website=cryptocurrency+trading+strategies&cid=&camplink=&campname=] to validate keyword popularity.
+- Use [WordSteam](https://tools.wordstream.com/fkt?website=cryptocurrency+trading+strategies&cid=&camplink=&campname=) to validate keyword popularity.
 - Ask openAI to create an outline, based on all the information above.
 - Ask openAI to write an introduction from the outline.
 - Ask openAI to write each subsection
